@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 36187a6115dbacf43a3f8fff4e0e877a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - missilesPointsText: {instanceID: 0}
+  - missilesImagesParent: {instanceID: 0}
+  - buildingsPointsText: {instanceID: 0}
+  - buildingsImagesParent: {instanceID: 0}
+  - pointsData: {fileID: 11400000, guid: c05d090494e48164489c7d2c60d5b580, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
